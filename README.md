@@ -1,6 +1,6 @@
 # Snake game
 
-![Design preview for the Java snake game](./preview.jpg)
+![Design preview for the Java snake game](./preview.png)
 
 ## Welcome! 👋
 
